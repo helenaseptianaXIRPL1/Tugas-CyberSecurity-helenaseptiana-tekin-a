@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\Filetxt\Filetxt\bin\Debug\net8.0-windows\Filetxt.exe
+C:\Users\LENOVO\source\repos\Filetxt\Filetxt\bin\Debug\net8.0-windows\Filetxt.deps.json
+C:\Users\LENOVO\source\repos\Filetxt\Filetxt\bin\Debug\net8.0-windows\Filetxt.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Filetxt\Filetxt\bin\Debug\net8.0-windows\Filetxt.dll
+C:\Users\LENOVO\source\repos\Filetxt\Filetxt\bin\Debug\net8.0-windows\Filetxt.pdb
+C:\Users\LENOVO\source\repos\Filetxt\Filetxt\obj\Debug\net8.0-windows\Filetxt.Form1.resources
+C:\Users\LENOVO\source\repos\Filetxt\Filetxt\obj\Debug\net8.0-windows\Filetxt.vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Filetxt\Filetxt\obj\Debug\net8.0-windows\Filetxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Filetxt\Filetxt\obj\Debug\net8.0-windows\Filetxt.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Filetxt\Filetxt\obj\Debug\net8.0-windows\Filetxt.AssemblyInfo.vb
+C:\Users\LENOVO\source\repos\Filetxt\Filetxt\obj\Debug\net8.0-windows\Filetxt.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Filetxt\Filetxt\obj\Debug\net8.0-windows\Filetxt.dll
+C:\Users\LENOVO\source\repos\Filetxt\Filetxt\obj\Debug\net8.0-windows\refint\Filetxt.dll
+C:\Users\LENOVO\source\repos\Filetxt\Filetxt\obj\Debug\net8.0-windows\Filetxt.pdb
+C:\Users\LENOVO\source\repos\Filetxt\Filetxt\obj\Debug\net8.0-windows\Filetxt.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Filetxt\Filetxt\obj\Debug\net8.0-windows\ref\Filetxt.dll
